@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">KotlinWorkshop</string>
+    <string name="app_name">My Kotlin App</string>
     <string name="title_name">Bhanu Gudheniya\'s App</string>
     <string name="image_desp">This is a test Image.</string>
     <string name="content_desp">Viewgroups are used to groups Views and position them.</string>
