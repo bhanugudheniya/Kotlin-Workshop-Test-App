@@ -3,4 +3,9 @@
     <string name="title_name">Bhanu Gudheniya\'s App</string>
     <string name="image_desp">This is a test Image.</string>
     <string name="content_desp">Viewgroups are used to groups Views and position them.</string>
+    <string name="buttonChange">Change Text</string>
+    <string name="buttonToast">Toast Button</string>
+    <string name="scrollViewText">
+        Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World
+    </string>
 </resources>
